@@ -1,0 +1,10 @@
+/Users/abukhassymkhydyrbayev/Documents/crypto_news_aggregator/target/debug/deps/liblock_api-c10fc7e1c07cd948.rmeta: /Users/abukhassymkhydyrbayev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.12/src/lib.rs /Users/abukhassymkhydyrbayev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.12/src/mutex.rs /Users/abukhassymkhydyrbayev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.12/src/remutex.rs /Users/abukhassymkhydyrbayev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.12/src/rwlock.rs
+
+/Users/abukhassymkhydyrbayev/Documents/crypto_news_aggregator/target/debug/deps/liblock_api-c10fc7e1c07cd948.rlib: /Users/abukhassymkhydyrbayev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.12/src/lib.rs /Users/abukhassymkhydyrbayev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.12/src/mutex.rs /Users/abukhassymkhydyrbayev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.12/src/remutex.rs /Users/abukhassymkhydyrbayev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.12/src/rwlock.rs
+
+/Users/abukhassymkhydyrbayev/Documents/crypto_news_aggregator/target/debug/deps/lock_api-c10fc7e1c07cd948.d: /Users/abukhassymkhydyrbayev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.12/src/lib.rs /Users/abukhassymkhydyrbayev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.12/src/mutex.rs /Users/abukhassymkhydyrbayev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.12/src/remutex.rs /Users/abukhassymkhydyrbayev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.12/src/rwlock.rs
+
+/Users/abukhassymkhydyrbayev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.12/src/lib.rs:
+/Users/abukhassymkhydyrbayev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.12/src/mutex.rs:
+/Users/abukhassymkhydyrbayev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.12/src/remutex.rs:
+/Users/abukhassymkhydyrbayev/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.12/src/rwlock.rs:
